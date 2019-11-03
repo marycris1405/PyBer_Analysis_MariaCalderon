@@ -15,4 +15,4 @@ Create an overall snapshot of the ride-sharing data. In addition to your scatter
 
 The insights on PyBer we see that Urvan has the largest number of Total Rides (1,625) with the Total Drivers (59,602) but the Average Fare per Ride is higher in the Rural City Type. 
 
-## Multiple-Line Plot for the Sum of the FAres for Each City Type
+## Multiple-Line Plot for the Sum of the Fares for Each City Type
