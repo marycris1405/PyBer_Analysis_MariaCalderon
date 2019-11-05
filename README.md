@@ -17,7 +17,7 @@ The insights on PyBer we see that Urvan has the largest number of Total Rides (1
 
 ## Multiple-Line Plot for the Sum of the Fares for Each City Type
 
-
+![Challenge1](https://user-images.githubusercontent.com/44789805/68176975-da851000-ff54-11e9-91d3-ab17aa758cec.png)
 
 In the graph we can observe the behavior of the fares for each city type. 
 The Urban City has the higher fares (USD) with its largest fare on March followed for the mid April.
